@@ -1,7 +1,11 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Image processing [ReteoShade](https://github.com/erfan-ops/VideoEditorBeta)<br><br>
-- 👨‍💻 All of my projects are available at [https://github.com/erfan-ops?tab=repositories](https://github.com/erfan-ops?tab=repositories)<br><br>
+👋 Hi there! I'm **Erfan** — a passionate developer focused on **image processing**, **GPU programming**, and **creative coding**.
+- 🔭 I’m currently working on **RetroShade**, a CUDA-accelerated image processing toolkit. [Check it out](https://github.com/erfan-ops/VideoEditorBeta)
++ 🔍 Browse all my projects on my [GitHub repositories](https://github.com/erfan-ops?tab=repositories)
 - 📫 How to reach me **m.erfan011karami@gmail.com**
+
+
+
 
 
 ## 🌐 Socials:
