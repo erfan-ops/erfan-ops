@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm **Erfan** — a passionate developer focused on **image processing**, **GPU programming**, and **creative coding**.
-- 🔭 I’m currently working on **RetroShade**, a CUDA-accelerated image processing toolkit. [Check it out](https://github.com/erfan-ops/VideoEditorBeta)
+- 🔭 I’m currently working on **RetroShade**, a GPU-accelerated image processing toolkit. [Check it out](https://github.com/erfan-ops/VideoEditorBeta)
 + 🔍 Browse all my projects on my [GitHub repositories](https://github.com/erfan-ops?tab=repositories)
 - 📫 How to reach me **m.erfan011karami@gmail.com**
 
