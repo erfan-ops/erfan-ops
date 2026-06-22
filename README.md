@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm **Erfan** — a passionate developer focused on **image processing**, **GPU programming**, and **creative coding**.
-- 🔭 I’m currently working on **RetroShade**, a GPU-accelerated image processing toolkit. [Check it out](https://github.com/erfan-ops/VideoEditorBeta)
+- 🔭 I’m currently working on **Animura**, a Live and Interactive wallpaper engine for windows. [Check it out](https://github.com/erfan-ops/Animura)
 + 🔍 Browse all my projects on my [GitHub repositories](https://github.com/erfan-ops?tab=repositories)
 - 📫 How to reach me **m.erfan011karami@gmail.com**
 
@@ -30,7 +30,6 @@
 ### Graphics & Rendering
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge\&logo=opengl)
-![GLSL](https://img.shields.io/badge/GLSL-4A4A4A?style=for-the-badge\&logo=opengl\&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge\&logo=Qt\&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-003A70?style=for-the-badge\&logo=python\&logoColor=white)
 
